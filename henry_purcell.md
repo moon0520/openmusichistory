@@ -1,6 +1,6 @@
 # Henry purcell (1659-1695)
 
-Henry Purcell (1659-1695) is a England composer,
+Henry Purcell (1659-1695) is a England composer, he was a master of England Baroque music and a pivotal figure in the development of early England opera
 
 ## List of Inportant Works
 
