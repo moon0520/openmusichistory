@@ -1,7 +1,7 @@
 # Henry purcell (1659-1695)
 
 <img src="./henry image.jpg" alt="portrait" style="width:25%;" />
-<img src="./rondeau (1).png" alt="portrait" style="width:25%;" />
+
 
 Henry Purcell (1659-1695) is British composer. he produced a vast and remarkable body of work across a wide range of genres, including sacred music, theatre music, court music, and various forms of instrumental and vocal compositions.
 
@@ -17,6 +17,7 @@ Purcell's contribution to theatre music was also immensely significant. He creat
 
 In conclusion, Henry Purcell's music is characterized by its originality, technical mastery, and exceptional emotional expressiveness. He built upon the traditions of English music while creatively incorporating the new currents of the Baroque period to establish his own unique and unparalleled style.
 
+<img src="./rondeau (1).png" alt="portrait" style="width:25%;" />
 ## List of Inportant Works
 
 | Year |         Works        | Youtube |
