@@ -103,8 +103,8 @@ This project also contributes to achieving Sustainable Development Goal 4 (SDG 4
 ### Yun, Seungju [@Yunseungju](https://github.com/Yunseungju)  
 > 4th-year piano major at Hanyang University
 
-### Name? [@moon0520](https://github.com/moon0520)
-> Major?
+### Moon, jiwon [@moon0520](https://github.com/moon0520)
+> 4th-year student at Hanyang University, Department of Piano
 
 ---
 
